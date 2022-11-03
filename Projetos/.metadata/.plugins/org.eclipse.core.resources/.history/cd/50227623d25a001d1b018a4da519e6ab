@@ -1,0 +1,9 @@
+package entities;
+
+public enum enums {
+	
+	PENDING_PAYMANT,
+	PROCESSING,
+	SHIPPED,
+	DELIVERED;
+}

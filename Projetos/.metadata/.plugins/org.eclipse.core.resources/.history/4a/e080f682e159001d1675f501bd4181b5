@@ -1,0 +1,27 @@
+package entities;
+
+public class Worker {
+	
+	private String name;
+	private WorkLevel level;
+	private Double baseSalary;
+	
+	private Department department;
+	private List<HourContract> contracts = new ArrayList();
+	
+	public Worker() {
+
+	}
+
+	public Worker(String name, WorkLevel level, Double baseSalary, Department department) {
+		super();
+		this.name = name;
+		this.level = level;
+		this.baseSalary = baseSalary;
+		this.department = department;
+	}
+	
+	
+	
+	
+}

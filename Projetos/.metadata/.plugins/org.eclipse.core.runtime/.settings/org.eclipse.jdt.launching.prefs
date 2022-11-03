@@ -1,0 +1,2 @@
+eclipse.preferences.version=1
+org.eclipse.jdt.launching.PREF_VM_XML=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<vmSettings defaultVM\="57,org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType13,1667233033814" defaultVMConnector\="">\r\n    <vmType id\="org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType">\r\n        <vm id\="1667233033814" name\="zulu18.32.13-ca-jdk18.0.2.1-win_x64" path\="C\:\\Program Files\\Java\\zulu18.32.13-ca-jdk18.0.2.1-win_x64"/>\r\n    </vmType>\r\n</vmSettings>\r\n

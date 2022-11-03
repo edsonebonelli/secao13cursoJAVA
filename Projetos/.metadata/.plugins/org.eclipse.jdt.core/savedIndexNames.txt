@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+D:\WorkStation 2022\Universidade e Cursos\Formação Desenvolvedor\Java\Curso Java\.metadata\.plugins\org.eclipse.jdt.core
+2586179204.index
+1865797976.index
+1949013928.index
+1642497212.index
+53258046.index
